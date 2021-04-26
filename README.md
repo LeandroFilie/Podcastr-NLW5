@@ -55,6 +55,7 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 ```bash
 
 $ git clone https://github.com/LeandroFilie/podcastr-nlw5
+
 $ cd App
 ```
 
