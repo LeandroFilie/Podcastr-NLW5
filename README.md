@@ -1,4 +1,4 @@
-# Podcastr <img  align="center"  src="https://github.com/LeandroFilie/podcastr-nlw5/blob/master/App/public/favicon.png?raw=true" alt="Podcastr">
+# Podcastr <img  align="center"  src="./public/favicon.png" alt="Podcastr">
 
 <p align="center">
   <a href="#sobre-o-podcastr">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,16 +15,22 @@ Desenvolvido durante a Next Level Week #5, organizado pela [Rocketseat](https://
 
 ### Telas
 #### Página Inicial
-![enter image description here](https://github.com/LeandroFilie/podcastr-nlw5/blob/master/screenshots/home.png?raw=true)
+<p align="center">
+  <img src=".github/home.png">
+</p>
   
 <hr>
 
 #### Podcast Tocando
-![enter image description here](https://github.com/LeandroFilie/podcastr-nlw5/blob/master/screenshots/home_play.png?raw=true)
+<p align="center">
+  <img src=".github/home_play.png">
+</p>
 <hr>
 
 #### Página do Episódio
-![enter image description here](https://github.com/LeandroFilie/podcastr-nlw5/blob/master/screenshots/home_podcast.png?raw=true)
+<p align="center">
+  <img src=".github/home_podcast.png">
+</p>
 
 ## Tecnologias
 
