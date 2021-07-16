@@ -1,24 +1,17 @@
 # Podcastr <img  align="center"  src="https://github.com/LeandroFilie/podcastr-nlw5/blob/master/App/public/favicon.png?raw=true" alt="Podcastr">
 
-## Tópicos
-
-
-[Sobre o Podcastr](#sobre-o-podcastr) 
-
-[Telas](#telas)
-  
-
-[Tecnologias](#tecnologias)
-  
-
-[Instalação e Uso](#instalação-e-uso)
-  
+<p align="center">
+  <a href="#sobre-o-podcastr">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalação-e-uso">Instalação e Uso</a>
+</p>
 
 ## Sobre o Podcastr
 
   
 O Podcastr é um App para listagem e reprodução do podcast FalaDev, produzido pela [Rocketseat](https://rocketseat.com.br/).
-Desenvolvido durante a Next Level Week #5 da [Rocketseat](https://rocketseat.com.br/).
+Desenvolvido durante a Next Level Week #5, organizado pela [Rocketseat](https://rocketseat.com.br/).
 
 ### Telas
 #### Página Inicial
