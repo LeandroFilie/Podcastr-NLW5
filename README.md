@@ -55,7 +55,7 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 
 $ git clone https://github.com/LeandroFilie/podcastr-nlw5
 
-$ cd App
+$ cd podcastr-nlw5
 ```
 
 **Siga os passos a seguir**
@@ -64,7 +64,7 @@ $ cd App
 
 # Instalar todas as dependências
 
-$ yarn install
+$ yarn
 
 # Iniciar o fake back-end
 
